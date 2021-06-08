@@ -33,4 +33,3 @@ I enjoy learning new technologies (software and hardware) and am currently deep-
 
 😄 Pronouns: She/Her/Hers
 
-[Sudha_Lakshmi_Resume_AWSCloud - Copy.pdf](https://github.com/SudhaLV/SudhaLV/files/6615178/Sudha_Lakshmi_Resume_AWSCloud.-.Copy.pdf)
