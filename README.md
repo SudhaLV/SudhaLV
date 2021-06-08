@@ -33,5 +33,5 @@ I enjoy learning new technologies and am currently deep-diving into AWS (Amazon 
 
 😄 Pronouns: She/Her/Hers
 
-⚡ Fun fact: Cloud tech is hot favourite..until I learn something new ;) 😄!
+⚡ Fun fact: Cloud tech is hot favourite..until I learn something new 😄!
 
