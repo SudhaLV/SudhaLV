@@ -49,15 +49,15 @@ Address: Bristol, UK
 ## CERTIFICATIONS
     • AWS Cloud     - 	Certified AWS Cloud Practioner 
     • Agile	        - 	Certifications on Agile Methodology (TCS Internal)
-    • Oracle	      - 	Introduction to Oracle 9i (SQL)
+    • Oracle        -   Introduction to Oracle 9i (SQL)
     • JAVA 	        - 	Sun Certified Java Programmer (SCJP)
     • BANKING       - 	Certification on Banking (Financial Technology Centre, TCS Internal)
     • TELECOM       - 	Certification on Telecom Fundamentals (Financial Technology Center, TCS Internal)
 
 ## EDUCATION
-   **AWS re/Start Graduate** – A full-time skills development and training program in IT Amazon Web Services Cloud, LINUX, Python, SQL, GITHub (Jan'21 -    Apr 2021)
-   **Bachelor of Technology Degree **in ** Computer Sciences**. Acharya Nagarjuna University, India (Sep 2003  - Mar 2007)
-
+      Bachelor of Technology Degree in Computer Sciences, Acharya Nagarjuna University, India | Sep 2003 - Mar 20007
+      AWS Restart Graduate(A Skill development Program in Amazon Web Services Cloud, LINUX, Python, SQL, GITHub) TechTalent Academy, UK | Jan 2021 – Apr 2021
+      
 ## PROFESSIONAL EXPERIENCE 
   # Client: Bank of America - Global Data Hub (GDH), TCS (Jun 2012 – Jun 2015)
     GDH is a Bank Data Warehouse which contains the Employee, Client and profitability data. It is a Netezza system which is sourced from many downstream applications. The         purpose of this project is to enhance the performance of ETL processes which are taking long time thus delaying the dependent process.
@@ -74,7 +74,7 @@ Address: Bristol, UK
     • Worked as a Trainer in Oracle stream to train and facilitate associates entering the IT company. The program lasted for 3 months with a 30 member team consisting of IT         and Non-IT graduates. As part of the program the graduates were trained in Oracle as main stream along with basics of IT , SDLC cycle, programming in Java, Linux OS,           Oracle SQL and PL/SQL .
  
   # Client: British Telecom - Customer Management Platform Services(CMPS), TCS (Nov’07 – Feb’12)
-    This project is about accessing and providing the data to various customer management systems by integrating the existing systems through Web Logic Integration Server. CMPS     consumes the data from various backend systems and expose them as Webservices. CMPS also supports the data migration from legacy systems on to strategic systems built in       oracle.
+    CMPS project is about accessing and providing the data to various customer management systems by integrating the existing systems through Web Logic Integration Server. CMPS     consumes the data from various backend systems and expose them as Webservices. CMPS also supports the data migration from legacy systems on to strategic systems built in       oracle.
   # Roles and Responsibilities
     • Understand the business needs and implement the same into functional database design.
     • Developed Packages, stored procedures and functions to perform calculations and implementation of business logic.
