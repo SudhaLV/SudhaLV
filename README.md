@@ -19,10 +19,10 @@ I enjoy learning new technologies and am currently deep-diving into AWS (Amazon 
 - ⚡ Fun fact: Cloud is my most favourite tech.....until I learn something new 😄!
 
 
-#### SUDHA LAKSHMI V
+<font size="60"> SUDHA LAKSHMI V </font>
 
 Email: cse_sudhalakshmi@yahoo.co.in				     
-Linkedin: www.linkedin.com/in/sudhavinayakam
+Linkedin: www.linkedin.com/in/sudhavinayakam  
 Address: Bristol, UK         	
 
 
