@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 My name is Sudha and I am a tech enthusiast. I have a particular interest in Cloud systems and am an AWS Certified Cloud Practitioner. 
-I enjoy learning new technologies (software and hardware) and am currently deep-diving into AWS (Amazon Web Services) and Python.
+I enjoy learning new technologies and am currently deep-diving into AWS (Amazon Web Services) and Python.
 
 🔭 I’m working on: uploading my projects onto Github
 
@@ -31,5 +31,6 @@ I enjoy learning new technologies (software and hardware) and am currently deep-
 
 📫 How to reach me: www.linkedin.com/in/sudhavinayakam or email me at: cse.sudhalakshmi@gmail.com
 
-😄 Pronouns: She/Her/Hers
+-😄 Pronouns: She/Her/Hers
+-⚡ Fun fact: Cloud tech is hot favourite..until I learn something new ;) 😄!
 
