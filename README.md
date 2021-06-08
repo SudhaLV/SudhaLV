@@ -49,7 +49,7 @@ Address: Bristol, UK
 ## CERTIFICATIONS
     • AWS Cloud     - 	Certified AWS Cloud Practioner 
     • Agile	        - 	Certifications on Agile Methodology (TCS Internal)
-    • Oracle        -   Introduction to Oracle 9i (SQL)
+    • Oracle        -       Introduction to Oracle 9i (SQL)
     • JAVA 	        - 	Sun Certified Java Programmer (SCJP)
     • BANKING       - 	Certification on Banking (Financial Technology Centre, TCS Internal)
     • TELECOM       - 	Certification on Telecom Fundamentals (Financial Technology Center, TCS Internal)
