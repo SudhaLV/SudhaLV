@@ -30,7 +30,6 @@ I enjoy learning new technologies and am currently deep-diving into AWS (Amazon 
 💬 Ask me about: anything (but you can also take a look at my CV down below)!
 
 📫 How to reach me: www.linkedin.com/in/sudhavinayakam or email me at: cse.sudhalakshmi@gmail.com
-
--😄 Pronouns: She/Her/Hers
--⚡ Fun fact: Cloud tech is hot favourite..until I learn something new ;) 😄!
+😄 Pronouns: She/Her/Hers
+⚡ Fun fact: Cloud tech is hot favourite..until I learn something new ;) 😄!
 
