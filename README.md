@@ -35,3 +35,7 @@ I enjoy learning new technologies and am currently deep-diving into AWS (Amazon 
 
 ⚡ Fun fact: Cloud tech my is hot favourite..until I learn something new 😄!
 
+-My
+-new
+-learning
+
