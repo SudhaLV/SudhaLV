@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
+
 My name is Sudha and I am a tech enthusiast. I have a particular interest in Cloud systems and am an AWS Certified Cloud Practitioner. 
 I enjoy learning new technologies (software and hardware) and am currently deep-diving into AWS (Amazon Web Services) and Python.
 
