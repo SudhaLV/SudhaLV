@@ -34,11 +34,11 @@ Address: Bristol, UK
     • Informatica Power Center 9.x 
     • Data Warehousing and Analytics
     • Unix / Linux and Unix Shell Scripting
-    • Oracle 9i/10g , Netezza (PL/SQL and NZSQL)
+    • Oracle9i/10g, Netezza (PL/SQL and NZSQL)
     • GITHub
     • SDLC and Agile Methodologies
     • Toad, PL/SQL Developer, SQL Developer
-    • Python , Java 
+    • Python, Java 
     • Autosys
     • subversion
 
@@ -56,7 +56,7 @@ Address: Bristol, UK
 
 ## EDUCATION
       Bachelor of Technology Degree in Computer Sciences, Acharya Nagarjuna University, India | Sep 2003 - Mar 20007
-      AWS Restart Graduate(A Skill development Program in Amazon Web Services Cloud, LINUX, Python, SQL, GITHub) TechTalent Academy, UK | Jan 2021 – Apr 2021
+      AWS Restart Graduate <br/> (A Skill development Program in Amazon Web Services Cloud, LINUX, Python, SQL, GITHub) TechTalent Academy, UK | Jan 2021 – Apr 2021
       
 ## PROFESSIONAL EXPERIENCE 
   # Client: Bank of America - Global Data Hub (GDH), TCS (Jun 2012 – Jun 2015)
