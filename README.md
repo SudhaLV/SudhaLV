@@ -19,7 +19,7 @@ I enjoy learning new technologies and am currently deep-diving into AWS (Amazon 
 - ⚡ Fun fact: Cloud is my most favourite tech.....until I learn something new 😄!
 
 
-<font size="60"> SUDHA LAKSHMI V </font>
+SUDHA VINAYAKAM
 
 Email: cse_sudhalakshmi@yahoo.co.in				     
 Linkedin: www.linkedin.com/in/sudhavinayakam  
@@ -27,7 +27,7 @@ Address: Bristol, UK
 
 
 ## PROFESSIONAL SUMMARY
-   My name is Sudha Lakshmi and I am passionate about cloud technologies. I am a Certified AWS Cloud Practitioner. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Management Console and also experience using Python and Linux Bash Shell. I am a former ETL developer with 7+ years of experience in Analysis, Design and Development of complex software systems in Telecom and Banking domains using Informatica tools.
+   My name is Sudha Vinayakam and I am passionate about cloud technologies. I am a Certified AWS Cloud Practitioner. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Management Console and also experience using Python and Linux Bash Shell. I am a former ETL developer with 7+ years of experience in Analysis, Design and Development of complex software systems in Telecom and Banking domains using Informatica tools.
    
 ## SKILLS
     • AWS Cloud EC2, S3, IAM, Lambda
@@ -49,14 +49,14 @@ Address: Bristol, UK
 ## CERTIFICATIONS
     • AWS Cloud     - 	Certified AWS Cloud Practioner 
     • Agile	        - 	Certifications on Agile Methodology (TCS Internal)
-    • Oracle        -       Introduction to Oracle 9i (SQL)
+    • Oracle        - 	Introduction to Oracle 9i (SQL)
     • JAVA 	        - 	Sun Certified Java Programmer (SCJP)
     • BANKING       - 	Certification on Banking (Financial Technology Centre, TCS Internal)
     • TELECOM       - 	Certification on Telecom Fundamentals (Financial Technology Center, TCS Internal)
 
 ## EDUCATION
       Bachelor of Technology Degree in Computer Sciences, Acharya Nagarjuna University, India | Sep 2003 - Mar 20007
-      AWS Restart Graduate <br/> (A Skill development Program in Amazon Web Services Cloud, LINUX, Python, SQL, GITHub) TechTalent Academy, UK | Jan 2021 – Apr 2021
+      AWS Restart Graduate (A Skill development Program in Cloud, LINUX, Python, SQL, GITHub) TechTalent Academy, UK | Jan 2021 – Apr 2021
       
 ## PROFESSIONAL EXPERIENCE 
   # Client: Bank of America - Global Data Hub (GDH), TCS (Jun 2012 – Jun 2015)
