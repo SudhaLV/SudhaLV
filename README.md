@@ -10,7 +10,7 @@ My name is Sudha and I am a tech enthusiast. I have a particular interest in Clo
 I enjoy learning new technologies and am currently deep-diving into AWS (Amazon Web Services) and Python.
 
 - 🔭 I’m working on: uploading my projects onto Github
-- 🌱 I’m currently learning: Architecting in AWS Cloud
+- 🌱 I’m currently learning: Architecting in AWS Cloud and using DevOps tools.
 - 👯 I’m looking to collaborate on: improving my internet visibility via social media , GITHub, Linkedin etc.
 - 🤔 I’m looking for help with: Restarting my Tech career preferably in cloud and use my ETL and webservices work experience to provide innovative solutions to the data             related problems. I love to design effective and innovative designs on cloud.
 - 💬 Ask me about: anything (but you can also take a look at my CV down below)!
@@ -27,7 +27,7 @@ Address: Bristol, UK
 
 
 ## PROFESSIONAL SUMMARY
-   My name is Sudha Vinayakam and I am passionate about cloud technologies. I am a Certified AWS Cloud Practitioner. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS with hands-on experience using the AWS Management Console and also experience using Python and Linux Bash Shell. I am a former ETL developer with 7+ years of experience in Analysis, Design and Development of complex software systems in Telecom and Banking domains using Informatica tools.
+   My name is Sudha Vinayakam and I am passionate about cloud technologies. I am a **Certified AWS Cloud Practitioner** and a former **ETL developer with 7 years** of experience working on complex software systems in Telecom and Banking domains using **Informatica** tools. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS, Python along with hands-on experience in ETL tools like Informatica, SQL Databases - Oracle and Netezza, Webservices using Java and Linux Bash Shell, Configuration Management tools, Job scheduling. I successfully adopted Agile methodologies to deliver the projects and currently focussing on use of various DevOps tools to make the deliveries faster and system stable. 
    
 ## SKILLS
     • AWS Cloud EC2, S3, IAM, Lambda
