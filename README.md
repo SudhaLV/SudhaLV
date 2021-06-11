@@ -30,7 +30,7 @@ Address: Bristol, UK
    My name is Sudha Vinayakam and I am passionate about cloud technologies. I am a **Certified AWS Cloud Practitioner** and a former **ETL developer with 7 years** of experience working on complex software systems in Telecom and Banking domains using **Informatica** tools. I am a self-starter with a practical, problem-solving mindset who enjoys being thrown into challenging situations and having to learn on the fly, grasping new skills and being able to put my knowledge into practice. A confident, independent thinker having a detailed knowledge of AWS, Python along with hands-on experience in ETL tools like Informatica, SQL Databases - Oracle and Netezza, Webservices using Java and Linux Bash Shell, Version control tools, Job scheduling. I successfully adopted Agile methodologies to deliver the projects and currently focussing on use of various DevOps tools to make the deliveries faster and system stable. 
    
 ## SKILLS
-    • AWS Cloud EC2, S3, IAM, Lambda
+    • AWS Cloud EC2, S3, IAM, Lambda, Docker
     • Informatica Power Center 9.x 
     • Data Warehousing and Analytics
     • Unix / Linux and Unix Shell Scripting
