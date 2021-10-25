@@ -12,11 +12,4 @@ I enjoy learning new technologies and am currently deep-diving into Java and AWS
 - 💬 Ask me about: anything (but you can also request for my CV at my email id)!
 - 📫 How to reach me: www.linkedin.com/in/sudhavinayakam or email me at: cse.sudhalakshmi@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: Cloud is my most favourite tech.....until I learn something new 😄!
-
-
-SUDHA VINAYAKAM
-
-Email: cse_sudhalakshmi@yahoo.co.in				     
-Linkedin: www.linkedin.com/in/sudhavinayakam  
-Address: Bristol, UK         	
+- ⚡ Fun fact: Cloud is my most favourite tech.....until I learn something new 😄!     	
