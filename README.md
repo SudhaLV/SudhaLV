@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 
 My name is Sudha and I am a tech enthusiast. I have a particular interest in Cloud systems and am an AWS Certified Cloud Practitioner. 
-I enjoy learning new technologies and am currently deep-diving into AWS (Amazon Web Services) and Python.
+I enjoy learning new technologies and am currently deep-diving into AWS (Amazon Web Services) and Java.
 
-- 🔭 I’m working on: uploading my projects onto Github
-- 🌱 I’m currently learning: Architecting in AWS Cloud and using DevOps tools.
+- 🔭 I’m working in building up a Java projects using TDD approach!
+- 🌱 I’m currently learning: Java Spring Framework, building Web APIs, Architecting in AWS Cloud and using DevOps tools.
 - 👯 I’m looking to collaborate on: improving my internet visibility via social media , GITHub, Linkedin etc.
-- 🤔 I’m looking for help with: Restarting my Tech career preferably in cloud and use my ETL and webservices work experience to provide innovative solutions to the data             related problems. I love to design effective and innovative designs on cloud.
+- 🤔 I’m looking for help with: Restarting my Tech career preferably in cloud and use my ETL and Webservices work experience to provide innovative software solutions. I love to design effective and innovative designs on cloud.
 - 💬 Ask me about: anything (but you can also take a look at my CV down below)!
 - 📫 How to reach me: www.linkedin.com/in/sudhavinayakam or email me at: cse.sudhalakshmi@gmail.com
 - 😄 Pronouns: She/Her/Hers
